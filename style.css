@@ -1,17 +1,10 @@
-body
-{
-    background-image: url("background.jpg");
-    background-position: center;
-    background-size: cover;
-}
-
 .note
 {
     font-size: 15px;
     color: black;
 }
 
-.copyright_footer {
+.copy_right_footer {
     position: fixed;
     color: skyblue;
     bottom: 0;
@@ -29,7 +22,6 @@ body
        width: 100%;
        margin: 0px;
        box-shadow: 5px 5px 18px blue;
-       line-height: 2.2;
    }
 
    canvas
